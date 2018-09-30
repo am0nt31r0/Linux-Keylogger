@@ -1,5 +1,5 @@
 # Linux-Keylogger
-Simple python keylogger.
+Simple python keylogger. To be continued...
 
 # Description
 
