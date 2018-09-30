@@ -12,7 +12,9 @@ KDE Neon
 
 # Before Running Install
 'python-xlib' and 'pyxhook'
+
 -> "sudo apt-get install python-xlib"
+
 -> https://github.com/JeffHoogland/pyxhook
 
 # Run
