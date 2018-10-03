@@ -3,7 +3,7 @@ Simple python keylogger. To be continued...
 
 # Description
 
-Python script that uses logs every key pressed down. This scripts tries to simplify visualy the logged keys.
+Python script that uses logs every key pressed down. This script tries to visualy simplify the logged keys.
 
 To stop the keylogger run on bash: "kill $(pgrep -f keylogger)"
 
